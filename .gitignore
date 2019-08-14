@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/.vs/TxtMiruCli2/v16
+/.vs
